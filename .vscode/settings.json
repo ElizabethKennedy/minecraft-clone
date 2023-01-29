@@ -5,6 +5,8 @@
         "nocheck",
         "predeploy",
         "reduxjs",
-        "webfonts"
+        "TTFB",
+        "webfonts",
+        "zustand"
     ]
 }
