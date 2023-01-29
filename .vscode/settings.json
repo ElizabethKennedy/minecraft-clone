@@ -3,6 +3,7 @@
         "drei",
         "nocheck",
         "predeploy",
+        "reduxjs",
         "webfonts"
     ]
 }
