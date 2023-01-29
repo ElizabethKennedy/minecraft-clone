@@ -4,6 +4,8 @@
   "homepage": "https://elizabethkennedy.github.io/minecraft-clone",
   "private": true,
   "dependencies": {
+    "@react-three/cannon": "^6.5.2",
+    "@react-three/fiber": "^8.10.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
